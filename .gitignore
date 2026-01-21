@@ -19,3 +19,5 @@
 # macOS / VS Code junk
 .DS_Store
 .vscode/
+# data (do not upload)
+data/
